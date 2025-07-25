@@ -1,16 +1,24 @@
-## Hi there 👋
+# Rashika Dube
+____________________________________________________________________________________________________________________________________________________________________________________
 
-<!--
-**RashikaDube/rashikadube** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# iOS Developer
+____________________________________________________________________________________________________________________________________________________________________________________
 
-Here are some ideas to get you started:
+Hello! Welcome to my GitHub profile. I'm Rashika Dube, an iOS developer with 3.6 years of experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Skills
+
+- Swift  
+- SwiftUI  
+- UIKit  
+- Core Data  
+- UI/UX Design  
+- API Integration  
+- Firebase  
+- MVVM / Clean Architecture
+
+
+# Contact
+
+You can reach out to me via email at [rashikadube23@gmail.com](mailto:rashikadube23@gmail.com)  
+or connect with me on [LinkedIn](https://www.linkedin.com/in/rashika-dube-9510891a0)
